@@ -26,7 +26,7 @@
   padding: 10px;}
       .a {color: green}
       
-      h3 {color: tomato}
+      h3 {color: tomato;}
       table, th, td {
   border: 1px solid white;
   border-collapse: collapse;}
