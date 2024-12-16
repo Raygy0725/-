@@ -78,7 +78,7 @@ a:active {
     
         <br><br><br><br><br><br><br><br> <br><br><br><p>なんで春日影やったの！？</p>><img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/8f3ebafd8da4f5b49059f87023c08f26.gif">
     </body>
-    <html>       
+    </html>       
            
      
    
