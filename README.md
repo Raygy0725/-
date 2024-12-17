@@ -12,10 +12,10 @@
     
 <style>
   
-body {background-color:powderblue;}
+ body {background-color:powderblue;}
 
   
-h1 {color:black;text-align:center;
+ h1 {color:black;text-align:center;
     background-color: white;
     font-size:50px;
     border:2px solid gray;
@@ -34,14 +34,14 @@ h1 {color:black;text-align:center;
        border-collapse: collapse;
        }
 
-th, td {
+  th, td {
         background-color: #96D4D4;}
       
       a:link {
   color: pink;
   background-color: transparent;
   text-decoration: none;}
-a:visited {
+ a:visited {
   color: green;
   background-color: transparent;
   text-decoration: none;}
@@ -55,7 +55,7 @@ a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;}
-  </style>
+</style>
 
 </head>
 <body>
