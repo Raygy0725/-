@@ -1,14 +1,13 @@
-# -
-一個廢物網站
+
 <!DOCTYPE html>
 
 <html lang="zh-TW">
 
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport"  content="width=device-width, initial-scale=1.0">
     <title>育翰のweb</title>
-    <link rel="icon" href="https://p2.bahamut.com.tw/HOME/creationCover/43/0005325243.JPG" type="image/x-icon"/> 
+    <link rel="icon" href="https://p2.bahamut.com.tw/HOME/creationCover/43/0005325243.JPG" type="image/x-icon"/>
     
 <style>
   
@@ -22,7 +21,7 @@
     }
  .city {
   background-color: #f1f1f1;
- text-align:center;
+  text-align:center;
   padding: 10px;}
   
   .a {color: green}
@@ -41,7 +40,7 @@
   color: pink;
   background-color: transparent;
   text-decoration: none;}
- a:visited {
+  a:visited {
   color: green;
   background-color: transparent;
   text-decoration: none;}
@@ -55,8 +54,8 @@ a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;}
+  
 </style>
-
 </head>
 <body>
 
