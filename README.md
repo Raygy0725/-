@@ -9,8 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>育翰のweb</title>
     <link rel="icon" href="https://p2.bahamut.com.tw/HOME/creationCover/43/0005325243.JPG" type="image/x-icon"/> 
-    <style>
- body {background-color:powderblue;}
+    
+<style>
+  
+body {background-color:powderblue;}
 
   
 h1 {color:black;text-align:center;
@@ -53,7 +55,7 @@ a:active {
   color: yellow;
   background-color: transparent;
   text-decoration: underline;}
-      </style>
+  </style>
 
 </head>
 <body>
@@ -78,10 +80,12 @@ a:active {
      </span>
    </h3>
     
-        <br><br><br><br><br><br><br><br> <br><br><br>
-  <p>なんで春日影やったの！？</p><img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/8f3ebafd8da4f5b49059f87023c08f26.gif">
-    </body>
-    </html>       
+<br><br><br><br><br><br><br><br> <br><br><br>
+<p>なんで春日影やったの！？</p>
+<img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/8f3ebafd8da4f5b49059f87023c08f26.gif">
+  
+</body>
+</html>       
            
      
    
