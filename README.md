@@ -79,8 +79,8 @@
    </h3>
     
 <br><br><br><br><br><br><br><br> <br><br><br>
-<p>なんで春日影やったの！？</p>
-<img src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/8f3ebafd8da4f5b49059f87023c08f26.gif">
+
+<img src="https://memeprod.ap-south-1.linodeobjects.com/user-template/32d09a7d89e3d5c7b23989f63d2784b9.png" style="width:400px">
   
 </body>
 </html>       
