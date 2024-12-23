@@ -9,7 +9,7 @@
     <title>育翰のweb</title>
     <link rel="icon" href="https://p2.bahamut.com.tw/HOME/creationCover/43/0005325243.JPG" type="image/x-icon"/>
     
- <style>
+<style>
   
   body {background-color:powderblue;}
 
@@ -22,7 +22,7 @@
   .city {
    background-color: #f1f1f1;
    text-align:center;
-  padding: 10px;}
+   padding: 10px;}
   
   .a {color: green}
       
@@ -55,7 +55,7 @@
   background-color: transparent;
   text-decoration: underline;}
   
- </style>
+</style>
 </head>
 <body>
 
